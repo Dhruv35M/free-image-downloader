@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/free-image-downloader/static/css/main.d1050b20.css",
-    "main.js": "/free-image-downloader/static/js/main.a6fb980d.js",
+    "main.js": "/free-image-downloader/static/js/main.78180897.js",
     "index.html": "/free-image-downloader/index.html",
     "main.d1050b20.css.map": "/free-image-downloader/static/css/main.d1050b20.css.map",
-    "main.a6fb980d.js.map": "/free-image-downloader/static/js/main.a6fb980d.js.map"
+    "main.78180897.js.map": "/free-image-downloader/static/js/main.78180897.js.map"
   },
   "entrypoints": [
     "static/css/main.d1050b20.css",
-    "static/js/main.a6fb980d.js"
+    "static/js/main.78180897.js"
   ]
 }
