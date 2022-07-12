@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/free-image-downloader/static/css/main.666b6412.css",
+    "main.js": "/free-image-downloader/static/js/main.6e5770e8.js",
+    "index.html": "/free-image-downloader/index.html",
+    "main.666b6412.css.map": "/free-image-downloader/static/css/main.666b6412.css.map",
+    "main.6e5770e8.js.map": "/free-image-downloader/static/js/main.6e5770e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.666b6412.css",
+    "static/js/main.6e5770e8.js"
+  ]
+}
